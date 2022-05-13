@@ -17,7 +17,7 @@ Le ```P.E.P.s``` représente le code de bonne conduite pour le langage python (i
 - Les vétérans de Pythons sont appelés des ```Pythonistas```
 - Un principe sacré partagé par la communauté de développer Python est celui de la _**high readability**_ autrement dit rendre son code facile à lire !
 - Cela est consacré par l'expression _**Pythonic**_ (celle-ci est généralement employé pour décrire un code ne respectant pas les convention "Non-Pythonic").
-- Le ```P.E.P.s 8``` est le PEPS le plus accepté et partagé par la communautée.
+- Le ```P.E.P.s 8``` est le PEPS le plus accepté et partagé par la communautée
 - Tous les jeunes développeur veulent faire du python (meme redondant de la communauté)
 
 ---
